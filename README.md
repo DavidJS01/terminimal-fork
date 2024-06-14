@@ -1,3 +1,29 @@
+> THIS IS FOR MY OWN BLOG. PLEASE SEE THE OFFICIAL REPO HERE: https://github.com/pawroman/zola-theme-terminimal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Terminimal
 
 [![Build Status](https://github.com/pawroman/zola-theme-terminimal/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pawroman/zola-theme-terminimal/actions/workflows/pages/pages-build-deployment)
